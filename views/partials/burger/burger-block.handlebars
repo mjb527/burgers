@@ -1,0 +1,20 @@
+<li class="my-4">
+  <div class="row">
+
+    <div class="col-7">
+      {{burger_name}}
+    </div>
+      <div class="col-5">
+        {{#if devoured}}
+          <div>
+            <em>Already Devoured!</em>
+          </div>
+        {{/if}}
+        {{#unless devoured}}
+          <button class="devour btn-sm btn-outline-secondary" data-id="{{id}}">Devour It!</button>
+         {{/unless}}
+       </div>
+
+  </div>
+
+</li>
