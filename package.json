@@ -2,7 +2,7 @@
   "name": "burgers",
   "version": "1.0.0",
   "description": "save burgers you like to a db",
-  "main": "server.js",
+  "main": "serve.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
