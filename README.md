@@ -12,9 +12,9 @@ Everyone likes burgers. You can use this app to track your favorite burgers and 
 
 ## Technologies Used
 
-*HTML/JavaScript + jQuery
+* HTML/JavaScript + jQuery
 * Node.js
-..* Express package
-..* MySQL package
-..* Handlebars
-*MySQL
+.* Express package
+.* MySQL package
+.* Handlebars
+* MySQL
