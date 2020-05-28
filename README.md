@@ -18,3 +18,16 @@ Everyone likes burgers. You can use this app to track your favorite burgers and 
     * MySQL package
     * Handlebars
 * MySQL
+
+## Cloning
+To clone, you will need to do the following:
+1. Make sure you have the prerequisites:
+    * NPM
+    * Node.js
+    * MySQL
+2. In your terminal, run `git clone https://github.com/mjb527/burgers && cd burgers && npm install`
+3. Create your database by running the sql script `schema.sql`
+4. Seed the databse with the sql script `seed.sql`
+5. Run the app from the root of the project with `npm start`
+
+### Happy Eating!
