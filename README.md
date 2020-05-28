@@ -14,7 +14,7 @@ Everyone likes burgers. You can use this app to track your favorite burgers and 
 
 * HTML/JavaScript + jQuery
 * Node.js
-    * Express package
+    * Express
     * MySQL package
     * Handlebars
 * MySQL
