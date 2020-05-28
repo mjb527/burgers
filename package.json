@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/mjb527/burgers#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "handlebars": "^4.7.6",
