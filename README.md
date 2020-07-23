@@ -31,7 +31,3 @@ To clone, you will need to do the following:
 5. Run the app from the root of the project with `npm start`
 
 ### Happy Eating!
-
-
-
-
